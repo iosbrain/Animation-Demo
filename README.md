@@ -1,4 +1,4 @@
-# Animation-Demo
+# Animation Demo
 Xcode/Swift project demonstrating basic block animation, Auto Layout, and view geometry.
 
 ## Xcode 8.2.1 project settings
