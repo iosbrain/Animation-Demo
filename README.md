@@ -1,7 +1,7 @@
 # Animation-Demo
 Xcode/Swift project demonstrating basic block animation, Auto Layout, and view geometry.
 
-## Xcode project settings
+## Xcode 8.2.1 project settings
 To get this project running on a device, go to the following locations in Xcode and make the suggested changes:
 
 1. Xcode -> [Project Name] -> TARGETS -> [Target Name] -> General -> Signing
